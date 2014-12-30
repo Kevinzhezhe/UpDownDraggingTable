@@ -34,3 +34,9 @@ The header file looks like this:
 @end
 
 For more details, please see the source code.
+
+Note: if you want to use this table in your project, you only need 4 files:
+EGORefreshTableHeaderView.h
+EGORefreshTableHeaderView.m
+KRefreshTableView.h
+KRefreshTableView.m
